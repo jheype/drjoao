@@ -11,7 +11,7 @@ function siteUrl() {
   try {
     return new URL(raw);
   } catch {
-    return new URL("http://localhost:3000");
+    return new URL("http://drjoaomoitinho.com");
   }
 }
 

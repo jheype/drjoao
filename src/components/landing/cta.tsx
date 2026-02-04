@@ -22,7 +22,7 @@ export default function Cta() {
           </Button>
           
           <Button asChild variant="outline" size="lg" className="border-slate-700 bg-transparent text-white hover:bg-slate-800 hover:text-white">
-            <Link href="tel:+55SEUNUMERO">
+            <Link href="tel:+5573999611770">
               <Phone className="mr-2 h-4 w-4" />
               Ligar para a Clínica
             </Link>
@@ -32,7 +32,7 @@ export default function Cta() {
         <div className="mt-12 grid gap-6 border-t border-slate-800 pt-8 text-sm text-slate-400 sm:grid-cols-3">
           <div className="flex flex-col items-center gap-2">
             <div className="rounded-full bg-slate-800 p-2"><MapPin className="h-4 w-4" /></div>
-            <p>Rua Exemplo, 123 - Centro</p>
+            <p>Av. Perimetral, 164A - 45836000</p>
           </div>
           <div className="flex flex-col items-center gap-2">
             <div className="rounded-full bg-slate-800 p-2"><Clock className="h-4 w-4" /></div>
