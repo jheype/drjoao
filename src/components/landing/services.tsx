@@ -22,9 +22,6 @@ export default function Services() {
               Protocolos modernos planejados digitalmente para garantir previsibilidade e conforto.
             </p>
           </div>
-          <Link href="#contato" className="text-primary font-medium hover:underline flex items-center gap-1">
-            Ver tabela de horários <ArrowUpRight className="h-4 w-4" />
-          </Link>
         </div>
 
         <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
