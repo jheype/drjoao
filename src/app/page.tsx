@@ -5,6 +5,7 @@ import Cta from "@/components/landing/cta";
 import Footer from "@/components/landing/footer";
 import Script from "next/script";
 import FAQDrawer from "@/components/FAQDrawer";
+import FloatingWhatsApp from "@/components/FloatingWhatsapp";
 
 
 function siteUrl() {
@@ -50,6 +51,7 @@ export default function HomePage() {
       <FAQDrawer />
       <Cta />
       <Footer />
+      <FloatingWhatsApp />
     </main>
   );
 }
