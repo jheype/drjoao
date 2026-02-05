@@ -32,7 +32,7 @@ export default function Cta() {
         <div className="mt-12 grid gap-6 border-t border-slate-800 pt-8 text-sm text-slate-400 sm:grid-cols-3">
           <div className="flex flex-col items-center gap-2">
             <div className="rounded-full bg-slate-800 p-2"><MapPin className="h-4 w-4" /></div>
-            <p>Av. Perimetral, 164A - 45836000</p>
+            <p>Av. Perimetral, 164A - Centro</p>
           </div>
           <div className="flex flex-col items-center gap-2">
             <div className="rounded-full bg-slate-800 p-2"><Clock className="h-4 w-4" /></div>

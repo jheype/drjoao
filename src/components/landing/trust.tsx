@@ -7,7 +7,7 @@ export default function Trust() {
         <div className="grid gap-8 sm:grid-cols-3 divide-y divide-slate-800 sm:divide-y-0 sm:divide-x">
           
           <FadeIn delay={0} className="px-4 text-center">
-            <p className="text-5xl font-bold tracking-tight text-blue-400">4.9</p>
+            <p className="text-5xl font-bold tracking-tight text-blue-400">5.0</p>
             <div className="mt-2 flex justify-center text-yellow-400 gap-1 text-sm">★★★★★</div>
             <p className="mt-2 text-slate-400">Média de avaliações no Google</p>
           </FadeIn>

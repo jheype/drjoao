@@ -12,7 +12,7 @@ export default function Header() {
         </div>
         
         <nav className="hidden gap-8 md:flex text-sm font-medium text-slate-600">
-          {['Início', 'Procedimentos', 'Sobre', 'Dúvidas'].map((item) => (
+          {['Início', 'Procedimentos', 'Dúvidas'].map((item) => (
             <Link 
               key={item}
               href={`#${item.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "")}`} 
