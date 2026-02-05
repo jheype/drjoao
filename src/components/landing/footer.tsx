@@ -7,6 +7,8 @@ export default function Footer() {
           <div className="flex gap-4">
             <p>Privacidade</p>
             <p>Termos</p>
+            <p>|</p>
+            <p className="text-black/30">Desenvolvido por: <a className="text-black/40 underline" href="https://jheype.dev">Jheype</a></p>
           </div>
         </div>
       </div>
